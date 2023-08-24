@@ -1,4 +1,12 @@
 #letlapa {
     width: 640px;
     height: 640px;
+    display: flex;
+    background-color: green;
 }
+
+.koti {
+    width: 16px;
+    height: 16px;
+}
+
